@@ -1,0 +1,5 @@
+Thu, 08 Jun 2017 10:42:52 3-13.py[line:11] DEBUG debug message
+Thu, 08 Jun 2017 10:42:52 3-13.py[line:12] INFO info message
+Thu, 08 Jun 2017 10:42:52 3-13.py[line:13] WARNING warning message
+Thu, 08 Jun 2017 10:42:52 3-13.py[line:14] ERROR error message
+Thu, 08 Jun 2017 10:42:52 3-13.py[line:15] CRITICAL critical message
